@@ -1,0 +1,7 @@
+logs/**
+tw-logs
+reasons.txt
+reasons.csv
+
+
+!logs/git-keep
